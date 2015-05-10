@@ -1,0 +1,4 @@
+{
+    "data_dir": "/opt/consul/var/lib/consul",
+    "ui_dir": "/opt/consul/usr/share/consul-webui"
+}
